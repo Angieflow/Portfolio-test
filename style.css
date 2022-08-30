@@ -1,9 +1,13 @@
 body {
+  font-family: rockwell;
   background: #ffa42c;
   padding: 0 24px;
   margin: 0;
   height: 100vh;
   color: white;
+}
+h1 {
+  font-family: slab serif;
 }
 <style type="text/css">
  <!--
