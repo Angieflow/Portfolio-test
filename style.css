@@ -1,13 +1,22 @@
-h1 {
-  font-family: "Bondie Condensed Slab Serif";
-  font-size: 50px;
-  font-weight: bolder;
+
+
+body {
+    font-family: "rockwell", monospace;
+
 }
 
- body {
- font-family: "rockwell", monospace;
-  background-image: url(https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?utm_medium=medium&w=700&q=50&auto=format);
-  background-repeat: no-repeat;
-  background-size: cover;
- }
 
+h1 {
+    font-family: "rockwell";
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.services {
+    background-color:#ffa07a;
+    font-size: 2rem;
+   
+}
+img {
+    width: 100%;
+}
