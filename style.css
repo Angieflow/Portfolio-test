@@ -1,5 +1,5 @@
 body {
-  font-family: rockwell;
+  font-family: "rockwell", monospace;
   background: #ffa42c;
   padding: 0 24px;
   margin: 0;
@@ -7,7 +7,7 @@ body {
   color: white;
 }
 h1 {
-  font-family: slab serif;
+  font-family: "slab serif";
 }
 <style type="text/css">
  <!--
