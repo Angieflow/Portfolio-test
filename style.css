@@ -13,6 +13,11 @@ h1 {
     position: absolute;
 }
 
+.about {
+    background-color:#ffa07a;
+    font-size: 2rem;
+}
+
 .services {
     background-color:#ffa07a;
     font-size: 2rem;
